@@ -1,5 +1,6 @@
 /**
- *
+ *      Recusie:
+ *      faculteit & som
  */
 public class Recursie {
     /*
